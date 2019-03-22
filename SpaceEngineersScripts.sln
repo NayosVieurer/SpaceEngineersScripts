@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurretTargetingSystem", "TurretTargetingSystem\TurretTargetingSystem.csproj", "{7D3E18D5-6E50-4D9B-AACB-7F23A10660D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D3E18D5-6E50-4D9B-AACB-7F23A10660D2}.Debug|x64.ActiveCfg = Debug|x64
+		{7D3E18D5-6E50-4D9B-AACB-7F23A10660D2}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C08CCD4-4E25-4F68-B20B-05E08CBB37E1}
+	EndGlobalSection
+EndGlobal
